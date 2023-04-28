@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-image {
+  /* background-image: url('../src/img/bg.jpg'); */
+  background-color: rgba(256, 256, 256, 0.8);
+  /* height: 500px; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
